@@ -6,12 +6,12 @@ const todosData = [
   },
   {
       id: 2,
-      text: "Take out the trash",
+      text: "BBQ",
       completed: false
   },
   {
       id: 3,
-      text: "Clean bathroom",
+      text: "Write a blog",
       completed: false
   },
   {
