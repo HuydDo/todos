@@ -6,7 +6,7 @@ const todosData = [
   },
   {
       id: 2,
-      text: "BBQ",
+      text: "Learn Algorithm",
       completed: false
   },
   {
