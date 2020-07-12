@@ -28,7 +28,12 @@ const todosData = [
     id: 6,
     text: " (5) GitHub contributions",
     completed: false
-}
+  },
+  {
+    id: 7,
+    text: " contact with at least eight (8) individuals",
+    completed: false
+  },
 
 ]
 
