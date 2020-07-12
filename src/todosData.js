@@ -23,7 +23,13 @@ const todosData = [
       id: 5,
       text: "Learn React",
       completed: false
-  }
+  },
+  {
+    id: 6,
+    text: " (5) GitHub contributions",
+    completed: false
+}
+
 ]
 
 export default todosData
